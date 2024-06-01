@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 熊博客</title>
+        <title>所有文章 - 博客熊</title>
         <link>http://localhost:1313/posts/</link>
-        <description>所有文章 | 熊博客</description>
+        <description>所有文章 | 博客熊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
             <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sat, 01 Jun 2024 16:13:09 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>About</title>
