@@ -5,11 +5,11 @@
         <description>所有文章 | 博客熊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
             <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sat, 01 Jun 2024 16:13:09 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>About</title>
+    <title>关于博客熊</title>
     <link>http://localhost:1313/about/</link>
     <pubDate>Sat, 01 Jun 2024 16:13:09 &#43;0800</pubDate><author>
         <name>ziran</name>
     </author><guid>http://localhost:1313/about/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[🎉 欢迎来到我的个人博客！ 博客介绍 这个小小的网络空间创建于2024年6月1日， 旨在记录学习心得、分享阅读体验，并偶尔探讨一些我认为有趣或有价值]]></description>
 </item></channel>
 </rss>
