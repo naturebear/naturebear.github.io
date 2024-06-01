@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Hugo - 标签 - 博客熊</title>
+        <link>http://localhost:1313/tags/hugo/</link>
+        <description>Hugo - 标签 - 博客熊</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+    <title>基于Hugo搭建个人博客</title>
+    <link>http://localhost:1313/%E5%9F%BA%E4%BA%8Ehugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</pubDate><author>
+        <name>ziran</name>
+    </author><guid>http://localhost:1313/%E5%9F%BA%E4%BA%8Ehugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[🚀 Hugo Quick Start 🚀 第一步：安装Hugo（for windows） 第二步：创建站点 第三步：新建文章 第四步：安装皮肤 第五步：运行调试]]></description>
+</item></channel>
+</rss>
