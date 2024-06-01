@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - 分类 - 🐻 博客</title>
+        <title>Categories - 分类 - 熊博客</title>
         <link>http://localhost:1313/categories/</link>
-        <description>Categories - 分类 - 🐻 博客</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (Ziran)</managingEditor>
-            <webMaster>edsiward100@163.com (Ziran)</webMaster><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /></channel>
+        <description>Categories - 分类 - 熊博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
