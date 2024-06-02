@@ -1,4 +1,4 @@
-# 基于Hugo搭建个人博客
+# 10分钟基于Hugo搭建个人博客
 
 
 # <center>🚀 Hugo Quick Start 🚀</center>
@@ -24,11 +24,11 @@
     4. 查看站点目录结构如下：```dir```
     ```bash
     ▸ archetypes/
-    ▸ doc/content/
+    ▸ content/
     ▸ data/
     ▸ layouts/
     ▸ static/
-      config.toml
+      hugo.toml
     ```
 
 ## 第三步：新建文章
