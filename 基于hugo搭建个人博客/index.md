@@ -1,4 +1,4 @@
-# 10分钟基于Hugo搭建个人博客
+# Hugo博客 10分钟搭建个人博客
 
 
 # <center>🚀 Hugo Quick Start 🚀</center>

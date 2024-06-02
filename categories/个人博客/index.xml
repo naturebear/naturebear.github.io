@@ -4,8 +4,15 @@
         <link>http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
         <description>个人博客 - 分类 - 博客熊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
-            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" rel="self" type="application/rss+xml" /><item>
-    <title>10分钟基于Hugo搭建个人博客</title>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo博客 5分钟托管至Github</title>
+    <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E8%87%B3github/</link>
+    <pubDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</pubDate><author>
+        <name>ziran</name>
+    </author><guid>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E8%87%B3github/</guid>
+    <description><![CDATA[🚀 Hosting on Github Pages 🚀 本文参考： Hugo快速开始中文文档 | 如何使用Hugo搭建博客并上传至GitHub 第一步：初始化本地仓库站点my_hugo_sit]]></description>
+</item><item>
+    <title>Hugo博客 10分钟搭建个人博客</title>
     <link>http://localhost:1313/%E5%9F%BA%E4%BA%8Ehugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
     <pubDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</pubDate><author>
         <name>ziran</name>

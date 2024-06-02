@@ -4,17 +4,24 @@
         <link>http://localhost:1313/tags/</link>
         <description>Tags - 标签 - 博客熊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
-            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Blog</title>
     <link>http://localhost:1313/tags/blog/</link>
-    <pubDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</pubDate><author>
+    <pubDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</pubDate><author>
         <name>ziran</name>
     </author><guid>http://localhost:1313/tags/blog/</guid>
     <description><![CDATA[]]></description>
 </item><item>
+    <title>Github Pages</title>
+    <link>http://localhost:1313/tags/github-pages/</link>
+    <pubDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</pubDate><author>
+        <name>ziran</name>
+    </author><guid>http://localhost:1313/tags/github-pages/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Hugo</title>
     <link>http://localhost:1313/tags/hugo/</link>
-    <pubDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</pubDate><author>
+    <pubDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</pubDate><author>
         <name>ziran</name>
     </author><guid>http://localhost:1313/tags/hugo/</guid>
     <description><![CDATA[]]></description>

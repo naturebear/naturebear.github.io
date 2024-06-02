@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Github Pages - 标签 - 博客熊</title>
+        <link>http://localhost:1313/tags/github-pages/</link>
+        <description>Github Pages - 标签 - 博客熊</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/github-pages/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo博客 5分钟托管至Github</title>
+    <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E8%87%B3github/</link>
+    <pubDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</pubDate><author>
+        <name>ziran</name>
+    </author><guid>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E8%87%B3github/</guid>
+    <description><![CDATA[🚀 Hosting on Github Pages 🚀 本文参考： Hugo快速开始中文文档 | 如何使用Hugo搭建博客并上传至GitHub 第一步：初始化本地仓库站点my_hugo_sit]]></description>
+</item></channel>
+</rss>
