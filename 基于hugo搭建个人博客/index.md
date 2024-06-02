@@ -61,3 +61,4 @@
     ```
 2. 确保当前处于```my_hugo_site```站点目录下，执行：```hugo server -D --disableFastRender```
     > 添加```--disableFastRender```参数来实时预览你正在编辑的文章页面.
+3. 打开浏览器，访问 [localhost:1313](http://localhost:1313/) 即可查看文章。
