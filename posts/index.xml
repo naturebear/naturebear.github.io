@@ -10,7 +10,7 @@
     <pubDate>Sat, 01 Jun 2024 23:23:41 &#43;0800</pubDate><author>
         <name>ziran</name>
     </author><guid>http://localhost:1313/%E5%9F%BA%E4%BA%8Ehugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-    <description><![CDATA[🚀 Hugo Quick Start 🚀 第一步：安装Hugo（for windows） 第二步：创建站点 第三步：新建文章 第四步：安装皮肤 第五步：运行调试]]></description>
+    <description><![CDATA[🚀 Hugo Quick Start 🚀 本文参考： Hugo快速开始中文文档 第一步：安装Hugo 下载所需操作系统对应的版本，本文以windows为例，因此下载 hugo_ex]]></description>
 </item><item>
     <title>关于博客熊</title>
     <link>http://localhost:1313/about/</link>
