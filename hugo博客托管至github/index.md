@@ -16,11 +16,11 @@
 
 ## 第二步：将本地仓库添加至Github
 1. 安装 [GitHub Desktop](https://desktop.github.com/)
-2. 在 GitHub Desktop 中选择"File > Add local repository"，选择```my_hugo_site```所在路径，点击"Add repository"。
+2. 打开 GitHub Desktop，选择"File > Add local repository"，选择```my_hugo_site```所在路径，点击"Add repository"。
 
 ![img.png](pics/choose_local_path.png)
 
-3. 点击"Publish repository"，填写 Name 和 Description，再次点击"Publish repository"。
+3. 点击"Publish repository"，填写 Name 和 Description，再次点击"Publish repository"即可将本地仓库同步至Github。
 > ❗❗❗ 注意 Name **必须**为```Github用户名```+```.github.io```，例如本人Github用户名为"naturebear"，则填写内容为：```naturebear.github.io```
 
 > ❗❗❗ 注意**不要勾选** ```Keep this code private```
