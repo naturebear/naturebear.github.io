@@ -33,7 +33,7 @@
 
 ## 第三步：新建文章
 1. 确保当前处于```my_hugo_site```站点目录下
-2. 使用创建文章内容页面：```hugo new posts/about.md```
+2. 使用hugo创建文章内容页面：```hugo new posts/about.md```
     > 默认情况下, 所有文章和页面均作为草稿创建. 如果想要渲染这些页面, 请从元数据中删除属性```draft: true```, 设置属性```draft: false```或者为```hugo```命令添加```-D/--buildDrafts```参数.
 3. 使用任意编辑器打开```aboud.md```，写入一些内容：
     ```markdown
@@ -42,7 +42,7 @@
 
 ## 第四步：安装主题
 1. 本文以 [DoIt](https://github.com/HEIGE-PCloud/DoIt) 主题为例，安装其他主题可参考 [Hugo主题列表](https://www.gohugo.org/theme/)。
-2. 确保当前处于```my_hugo_site```站点目录下，下载DoIt主题：```git clone https://github.com/HEIGE-PCloud/DoIt.git themes/DoIt```
+2. 确保当前处于```my_hugo_site```站点目录下，下载 DoIt 主题：```git clone https://github.com/HEIGE-PCloud/DoIt.git themes/DoIt```
 
 ## 第五步：运行调试
 1. 修改 ```hugo.toml``` 文件为以下内容：
