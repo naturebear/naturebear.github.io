@@ -4,7 +4,14 @@
         <link>http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
         <description>个人博客 - 分类 - 博客熊</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
-            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sat, 08 Jun 2024 20:28:56 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo博客 插入图片</title>
+    <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</link>
+    <pubDate>Sat, 08 Jun 2024 20:28:56 &#43;0800</pubDate><author>
+        <name>ziran</name>
+    </author><guid>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</guid>
+    <description><![CDATA[🚀 在博文中优雅地插入图片 🚀 本文参考： Cassius&rsquo;s Blog（采取随 markdown 源文件一起存储的方法在博文中插入图片） 创建文章使用以下命令，创建一个新的博文目录，以]]></description>
+</item><item>
     <title>Hugo博客 5分钟托管至Github</title>
     <link>http://localhost:1313/hugo%E5%8D%9A%E5%AE%A2%E6%89%98%E7%AE%A1%E8%87%B3github/</link>
     <pubDate>Sun, 02 Jun 2024 21:19:54 &#43;0800</pubDate><author>
