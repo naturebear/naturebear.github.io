@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LLM - 分类 - 博客熊</title>
+        <link>http://localhost:1313/categories/llm/</link>
+        <description>LLM - 分类 - 博客熊</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>edsiward100@163.com (ziran)</managingEditor>
+            <webMaster>edsiward100@163.com (ziran)</webMaster><lastBuildDate>Sun, 07 Jul 2024 16:54:50 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/llm/" rel="self" type="application/rss+xml" /><item>
+    <title>LLM Windows部署Qwen</title>
+    <link>http://localhost:1313/llm-windows%E9%83%A8%E7%BD%B2qwen/</link>
+    <pubDate>Sun, 07 Jul 2024 16:54:50 &#43;0800</pubDate><author>
+        <name>ziran</name>
+    </author><guid>http://localhost:1313/llm-windows%E9%83%A8%E7%BD%B2qwen/</guid>
+    <description><![CDATA[Windows本地部署Qwen2模型实现问答 检查显卡驱动命令行输入nvidia-smi检查显卡驱动版本，此处 检查显卡驱动 安装CUDA 建议显卡]]></description>
+</item></channel>
+</rss>
